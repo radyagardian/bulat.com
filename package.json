@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2"
+  },
+  "name": "exercise-oprec",
+  "version": "1.0.0",
+  "main": "backenf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node backend.js",
+    "dev": "nodemon backend.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
